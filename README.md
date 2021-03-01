@@ -1,5 +1,5 @@
 # Hi, I'm Laurie!
-![Laurie Avatar](https://laurieontech.com/static/illustration-ee1f9bca8b4370584c7ea9fd944c7d04.png)
+![Laurie Avatar](https://laurieontech.com/static/ee1f9bca8b4370584c7ea9fd944c7d04/26635/illustration.webp)
 
 
 I'm a Staff Software Engineer at [Gatsby](https://github.com/gatsbyjs) working on tooling. I'm also a maintainer of [MDX](https://github.com/mdx-js/mdx).
